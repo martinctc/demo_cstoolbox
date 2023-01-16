@@ -10,7 +10,7 @@ public class StringManipulationTest
         Console.Write("Input text:");
         Console.WriteLine(text);
         Console.Write("Output text:");
-        Console.Write(result);
+        Console.WriteLine(result);
         Console.WriteLine("...");
     }
 }
